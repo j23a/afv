@@ -1,5 +1,5 @@
 # Janderson.info
 
-Here's my personal website.
+AFV Landing Page
 
-[https://www.janderson.info/](https://www.janderson.info/)
+[https://www.andersonfamilyventures.com/](https://www.andersonfamilyventures.com/)
